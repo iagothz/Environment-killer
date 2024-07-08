@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Game Killer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b07b2b2261e2831ec96ac2a274d04f8d0ac3a982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c5c9086963d5ae7aafb09abab23541cfaf0c049")]
 [assembly: System.Reflection.AssemblyProductAttribute("Game Killer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Game Killer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

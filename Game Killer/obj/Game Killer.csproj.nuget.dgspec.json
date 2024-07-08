@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iagoz\\source\\repos\\iagothz\\Game Killer\\Game Killer\\Game Killer.csproj": {}
+    "C:\\Users\\iagoz\\source\\repos\\iagothz\\Environment Killer\\Game Killer\\Game Killer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iagoz\\source\\repos\\iagothz\\Game Killer\\Game Killer\\Game Killer.csproj": {
+    "C:\\Users\\iagoz\\source\\repos\\iagothz\\Environment Killer\\Game Killer\\Game Killer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iagoz\\source\\repos\\iagothz\\Game Killer\\Game Killer\\Game Killer.csproj",
+        "projectUniqueName": "C:\\Users\\iagoz\\source\\repos\\iagothz\\Environment Killer\\Game Killer\\Game Killer.csproj",
         "projectName": "Game Killer",
-        "projectPath": "C:\\Users\\iagoz\\source\\repos\\iagothz\\Game Killer\\Game Killer\\Game Killer.csproj",
+        "projectPath": "C:\\Users\\iagoz\\source\\repos\\iagothz\\Environment Killer\\Game Killer\\Game Killer.csproj",
         "packagesPath": "C:\\Users\\iagoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iagoz\\source\\repos\\iagothz\\Game Killer\\Game Killer\\obj\\",
+        "outputPath": "C:\\Users\\iagoz\\source\\repos\\iagothz\\Environment Killer\\Game Killer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iagoz\\AppData\\Roaming\\NuGet\\NuGet.Config",

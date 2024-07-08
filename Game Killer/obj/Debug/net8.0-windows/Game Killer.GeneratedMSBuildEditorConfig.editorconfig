@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Game_Killer
-build_property.ProjectDir = C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\
+build_property.ProjectDir = C:\Users\iagoz\source\repos\iagothz\Environment Killer\Game Killer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
