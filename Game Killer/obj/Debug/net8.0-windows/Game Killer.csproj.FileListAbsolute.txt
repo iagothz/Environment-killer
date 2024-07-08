@@ -1,0 +1,33 @@
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.exe
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.deps.json
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.runtimeconfig.json
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.dll
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.pdb
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game_Killer.Form1.resources
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.csproj.GenerateResource.cache
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.AssemblyInfoInputs.cache
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.AssemblyInfo.cs
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.csproj.CoreCompileInputs.cache
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.dll
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\refint\Game Killer.dll
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.pdb
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.genruntimeconfig.cache
+C:\Users\iagoz\source\repos\Game Killer\Game Killer\obj\Debug\net8.0-windows\ref\Game Killer.dll
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.exe
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.deps.json
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.runtimeconfig.json
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.dll
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\bin\Debug\net8.0-windows\Game Killer.pdb
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game_Killer.Form1.resources
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.csproj.GenerateResource.cache
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.AssemblyInfoInputs.cache
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.AssemblyInfo.cs
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.csproj.CoreCompileInputs.cache
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.dll
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\refint\Game Killer.dll
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.pdb
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game Killer.genruntimeconfig.cache
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\ref\Game Killer.dll
+C:\Users\iagoz\source\repos\iagothz\Game Killer\Game Killer\obj\Debug\net8.0-windows\Game_Killer.Properties.Resources.resources
